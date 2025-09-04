@@ -4,7 +4,7 @@
 
 # Elton Alafe
 
-Olá, Adoro resolver problemas, vejo cada desafio como uma oportunidade de aprendizado. Estou sempre buscando melhorar minhas habilidades, tanto técnicas quanto interpessoais, para construir relacionamentos positivos com meus colegas e clientes. Atualmente, estou focado em estudar Ciências da Computação com ênfase em desenvolvimento Full-stack na Descomplica, buscando entender as tecnologias e práticas mais relevantes para o campo de | Back-end | Java | Node.js |.
+Olá, gosto de resolver problemas, vejo cada desafio como uma oportunidade de aprendizado. Estou sempre buscando melhorar minhas habilidades, tanto técnicas quanto interpessoais. Atualmente, estou focado em estudar Análise e Desenvolvimento de Sistemas com ênfase em desenvolvimento Full-stack na Descomplica, buscando entender as tecnologias e práticas mais relevantes para o campo de | Back-end | Java | Node.js |JavaScript/TypeScript.
 
 Contatos
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-alafe-7310891a6) | [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://twitter.com/EltonAlafe) | [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eltonalafe@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eltonalafe)
